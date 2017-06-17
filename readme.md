@@ -1,0 +1,1 @@
+Just a project that prints Hello World using TypeScript
